@@ -1,10 +1,11 @@
-Qué información muestra cada comando.
+-Qué información muestra cada comando.
 
 
-Por qué es útil conocer información del sistema cuando se administra un servidor.
+-Por qué es útil conocer información del sistema cuando se administra un servidor.
 
-.
-. muestra información del espacio de código donde estamos guardando el archivo de uname -a
+ 1 Muestra la información  confidencial del sistema operativo y servidor donde estamos.
+
+2 Muestra información del espacio de código donde estamos guardando el archivo de uname -a
 
 
-. es importante  ya que si no conocemos el sistema donde vamos a trabajar y cada una de sus funciones y errores no podemos administrador de manera correcta nuestro servidor ya que cualquier persona con mayor conocimiento  y fácil accesibilidad  a los datos que le brindamos y dependerá si nos ayuda a crear  o  destruir nuestro servidor.
+3 Es importante  ya que si no conocemos el sistema donde vamos a trabajar y cada una de sus funciones y errores no podemos administrador de manera correcta nuestro servidor ya que cualquier persona con mayor conocimiento  y fácil accesibilidad  a los datos que le brindamos y dependerá si nos ayuda a crear  o  destruir nuestro servidor.
