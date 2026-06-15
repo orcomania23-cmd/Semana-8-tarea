@@ -1,3 +1,6 @@
 Proteger contraseñas.
 No compartir credenciales.
-Mantener software actualizado.
+Mantener software actualizado
+verificar constantemente nuestros archivos
+cambiar contraseña por periodos
+guardar copias de seguridad.
